@@ -19,7 +19,7 @@ LICENSE: [MIT](./license.md)
 
 5.[git clone](clone.md)
 
-6.[git remote](readme.md)
+6.[git remote](remote.md)
 
 7.[git fetch](fetch.md)
 
